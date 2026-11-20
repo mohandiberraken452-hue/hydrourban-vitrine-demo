@@ -1,0 +1,352 @@
+[
+  {
+    "sku": "NFT-CAN-100-1500",
+    "name": "Canal NFT 100 mm · 1,5 m",
+    "category": "Canaux NFT",
+    "asset": "nft",
+    "price": 2400
+  },
+  {
+    "sku": "NFT-CAN-100-3000",
+    "name": "Canal NFT 100 mm · 3 m",
+    "category": "Canaux NFT",
+    "asset": "nft",
+    "price": 4400
+  },
+  {
+    "sku": "NFT-CAN-100-6000",
+    "name": "Canal NFT 100 mm · 6 m",
+    "category": "Canaux NFT",
+    "asset": "nft",
+    "price": 8500
+  },
+  {
+    "sku": "NFT-CAN-150-3000",
+    "name": "Canal NFT 150 mm · 3 m",
+    "category": "Canaux NFT",
+    "asset": "nft",
+    "price": 6900
+  },
+  {
+    "sku": "NFT-CAN-150-6000",
+    "name": "Canal NFT 150 mm · 6 m",
+    "category": "Canaux NFT",
+    "asset": "nft",
+    "price": 12900
+  },
+  {
+    "sku": "NFT-BOU-100",
+    "name": "Bouchon de canal NFT 100 mm",
+    "category": "Raccords et tuyaux",
+    "asset": "fitting",
+    "price": 450
+  },
+  {
+    "sku": "NFT-BOU-150",
+    "name": "Bouchon de canal NFT 150 mm",
+    "category": "Raccords et tuyaux",
+    "asset": "fitting",
+    "price": 650
+  },
+  {
+    "sku": "NFT-ENT-100",
+    "name": "Embout alimentation NFT 100 mm",
+    "category": "Raccords et tuyaux",
+    "asset": "fitting",
+    "price": 550
+  },
+  {
+    "sku": "NFT-SOR-100",
+    "name": "Embout évacuation NFT 100 mm",
+    "category": "Raccords et tuyaux",
+    "asset": "fitting",
+    "price": 550
+  },
+  {
+    "sku": "NFT-TUY-016",
+    "name": "Tuyau irrigation Ø16 mm",
+    "category": "Raccords et tuyaux",
+    "asset": "fitting",
+    "price": 180
+  },
+  {
+    "sku": "RES-050",
+    "name": "Réservoir hydroponique 50 L",
+    "category": "Réservoirs",
+    "asset": "tank",
+    "price": 2800
+  },
+  {
+    "sku": "RES-100",
+    "name": "Réservoir hydroponique 100 L",
+    "category": "Réservoirs",
+    "asset": "tank",
+    "price": 3900
+  },
+  {
+    "sku": "RES-200",
+    "name": "Réservoir hydroponique 200 L",
+    "category": "Réservoirs",
+    "asset": "tank",
+    "price": 5500
+  },
+  {
+    "sku": "RES-500",
+    "name": "Réservoir hydroponique 500 L",
+    "category": "Réservoirs",
+    "asset": "tank",
+    "price": 11500
+  },
+  {
+    "sku": "RES-1000",
+    "name": "Réservoir hydroponique 1 000 L",
+    "category": "Réservoirs",
+    "asset": "tank",
+    "price": 16500
+  },
+  {
+    "sku": "PMP-800",
+    "name": "Pompe submersible 800 L/h",
+    "category": "Pompes",
+    "asset": "pump",
+    "price": 1900
+  },
+  {
+    "sku": "PMP-1500",
+    "name": "Pompe submersible 1 500 L/h",
+    "category": "Pompes",
+    "asset": "pump",
+    "price": 2500
+  },
+  {
+    "sku": "PMP-2500",
+    "name": "Pompe submersible 2 500 L/h",
+    "category": "Pompes",
+    "asset": "pump",
+    "price": 4800
+  },
+  {
+    "sku": "PMP-4000",
+    "name": "Pompe submersible 4 000 L/h",
+    "category": "Pompes",
+    "asset": "pump",
+    "price": 6500
+  },
+  {
+    "sku": "PMP-6000",
+    "name": "Pompe submersible 6 000 L/h",
+    "category": "Pompes",
+    "asset": "pump",
+    "price": 8500
+  },
+  {
+    "sku": "PAN-050",
+    "name": "Panier hydroponique Ø50 mm",
+    "category": "Paniers et supports",
+    "asset": "structure",
+    "price": 60
+  },
+  {
+    "sku": "PAN-075",
+    "name": "Panier hydroponique Ø75 mm",
+    "category": "Paniers et supports",
+    "asset": "structure",
+    "price": 90
+  },
+  {
+    "sku": "PAN-100",
+    "name": "Panier hydroponique Ø100 mm",
+    "category": "Paniers et supports",
+    "asset": "structure",
+    "price": 140
+  },
+  {
+    "sku": "SUP-NFT-1500",
+    "name": "Support canal NFT 1,5 m",
+    "category": "Paniers et supports",
+    "asset": "structure",
+    "price": 2800
+  },
+  {
+    "sku": "SUP-NFT-3000",
+    "name": "Support canal NFT 3 m",
+    "category": "Paniers et supports",
+    "asset": "structure",
+    "price": 4500
+  },
+  {
+    "sku": "SUB-LDR-010",
+    "name": "Billes d’argile expansée 10 L",
+    "category": "Substrats",
+    "asset": "generic",
+    "price": 1900
+  },
+  {
+    "sku": "SUB-COCO-005",
+    "name": "Fibre de coco 5 kg",
+    "category": "Substrats",
+    "asset": "generic",
+    "price": 1700
+  },
+  {
+    "sku": "SUB-LDR-050",
+    "name": "Billes d’argile expansée 50 L",
+    "category": "Substrats",
+    "asset": "generic",
+    "price": 6800
+  },
+  {
+    "sku": "SUB-LDR-001",
+    "name": "Billes d’argile expansée 1 L",
+    "category": "Substrats",
+    "asset": "generic",
+    "price": 300
+  },
+  {
+    "sku": "SUB-ROCK-100",
+    "name": "Cubes laine de roche · lot de 100",
+    "category": "Substrats",
+    "asset": "generic",
+    "price": 3800
+  },
+  {
+    "sku": "NUT-CAL-001",
+    "name": "Nitrate de calcium · 1 kg",
+    "category": "Nutriments",
+    "asset": "generic",
+    "price": 1500
+  },
+  {
+    "sku": "NUT-KNO-001",
+    "name": "Nitrate de potassium · 1 kg",
+    "category": "Nutriments",
+    "asset": "generic",
+    "price": 1900
+  },
+  {
+    "sku": "NUT-MGS-001",
+    "name": "Sulfate de magnésium · 1 kg",
+    "category": "Nutriments",
+    "asset": "generic",
+    "price": 900
+  },
+  {
+    "sku": "NUT-NPK-001",
+    "name": "Engrais NPK 12-12-36 · 1 kg",
+    "category": "Nutriments",
+    "asset": "generic",
+    "price": 1800
+  },
+  {
+    "sku": "NUT-FER-001",
+    "name": "Chélate de fer EDDHA 6 % · 1 kg",
+    "category": "Nutriments",
+    "asset": "generic",
+    "price": 3400
+  },
+  {
+    "sku": "MES-PH-001",
+    "name": "pH-mètre numérique",
+    "category": "Mesure et contrôle",
+    "asset": "sensor",
+    "price": 4500
+  },
+  {
+    "sku": "MES-EC-001",
+    "name": "EC-mètre numérique",
+    "category": "Mesure et contrôle",
+    "asset": "sensor",
+    "price": 4500
+  },
+  {
+    "sku": "MES-TDS-001",
+    "name": "TDS-mètre numérique",
+    "category": "Mesure et contrôle",
+    "asset": "sensor",
+    "price": 1800
+  },
+  {
+    "sku": "MES-TEMP-001",
+    "name": "Sonde de température étanche",
+    "category": "Mesure et contrôle",
+    "asset": "sensor",
+    "price": 1300
+  },
+  {
+    "sku": "MES-PHEC-001",
+    "name": "Contrôleur combiné pH / EC",
+    "category": "Mesure et contrôle",
+    "asset": "sensor",
+    "price": 15000
+  },
+  {
+    "sku": "AUT-TMR-001",
+    "name": "Programmateur horaire numérique",
+    "category": "Automatisation",
+    "asset": "automation",
+    "price": 2500
+  },
+  {
+    "sku": "AUT-LEVEL-001",
+    "name": "Capteur de niveau d’eau",
+    "category": "Automatisation",
+    "asset": "automation",
+    "price": 1600
+  },
+  {
+    "sku": "AUT-FLOW-001",
+    "name": "Capteur de débit d’eau",
+    "category": "Automatisation",
+    "asset": "automation",
+    "price": 2600
+  },
+  {
+    "sku": "AUT-CTRL-001",
+    "name": "Contrôleur hydroponique programmable",
+    "category": "Automatisation",
+    "asset": "automation",
+    "price": 24000
+  },
+  {
+    "sku": "AUT-VAL-001",
+    "name": "Électrovanne d’irrigation",
+    "category": "Automatisation",
+    "asset": "automation",
+    "price": 4500
+  },
+  {
+    "sku": "SER-VEN-001",
+    "name": "Ventilateur de circulation",
+    "category": "Équipements de serre",
+    "asset": "structure",
+    "price": 14500
+  },
+  {
+    "sku": "SER-EXT-001",
+    "name": "Extracteur d’air",
+    "category": "Équipements de serre",
+    "asset": "structure",
+    "price": 22000
+  },
+  {
+    "sku": "SER-HYG-001",
+    "name": "Capteur température / humidité",
+    "category": "Équipements de serre",
+    "asset": "structure",
+    "price": 2800
+  },
+  {
+    "sku": "SER-SHD-001",
+    "name": "Filet d’ombrage",
+    "category": "Équipements de serre",
+    "asset": "structure",
+    "price": 1200
+  },
+  {
+    "sku": "SER-IRR-001",
+    "name": "Kit d’irrigation goutte-à-goutte",
+    "category": "Équipements de serre",
+    "asset": "structure",
+    "price": 8500
+  }
+]
